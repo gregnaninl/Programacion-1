@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1494127177 source:c:\users\belen\desktop\laboratorio1\mercadolibre\main.c
+	<stdio.h>
+	<stdlib.h>
+
